@@ -1,0 +1,1 @@
+# react-native-signin-up-authentication-firebase
