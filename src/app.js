@@ -35,7 +35,9 @@ class App extends Component {
    renderContent(){
     switch(this.state.loggedIn){
         case true:
-          return (
+          return (;,d,c;c,c,,,,vv ,vc vc ,vc ,vc.cv . /messagingSenderId';cxmlvmlvcm
+
+            ds;,v,v
          <CardSection>
            <Button onPress={() => firebase.auth().signOut()}>
              Log Out
